@@ -1,23 +1,20 @@
-# 🏠 Hostel Room Allocation System
-### Hostel Warden Committee, Goa Institute of Management
+🏠 Hostel Room Allocation System
+Hostel Warden Committee, Goa Institute of Management
 
----
 
-## What This System Does
+What This System Does
 
-| Action | What happens |
-|--------|-------------|
-| **Allocate room** | Enter one or more GIM IDs — student details are pulled from the Students sheet automatically |
-| **Vacate room** | Enter GIM IDs of students leaving — their rooms are freed instantly |
-| **View allocations** | See every student and their current room, with filters and CSV export |
-| **View room status** | See which rooms are Full, Partial, or Vacant with colour coding |
-| **View vacancy summary** | Quick overview of available beds by room type and gender |
+Allocate room:Enter one or more GIM IDs — student details are pulled from the Students sheet automatically
+Vacate room: Enter GIM IDs of students leaving — their rooms are freed instantly
+View allocations: See every student and their current room, with filters and CSV export
+View room status: See which rooms are Full, Partial, or Vacant with colour coding
+View vacancy summary: Quick overview of available beds by room type and gender
 
-All changes are **automatically saved back to `hostel_data.xlsx`** — no formulas, no macros needed.
+All changes are automatically saved back to `hostel_data.xlsx` — no formulas, no macros needed.
 
----
 
-## Files in This Package
+
+Files in This Package
 
 ```
 hostel_system/
@@ -31,7 +28,7 @@ hostel_system/
 └── README.md                 ← This file
 ```
 
----
+
 
 ## Excel Data Format
 
